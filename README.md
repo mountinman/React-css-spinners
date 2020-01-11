@@ -1,2 +1,2 @@
 # React-css-spinners
-simple CSS only react spinners library
+simple CSS-only react spinners library
