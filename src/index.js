@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 const Func = props => {
-  return <div>Hello</div>;
-};
+  return <div>Hello</div>
+}
 
-export default Func;
+export default Func
