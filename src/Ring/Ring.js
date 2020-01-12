@@ -1,13 +1,16 @@
 import React from "react";
-
+import ring from "./ring.css";
 const Ring = props => {
   return (
-    <div class="lds-ring">
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
+    <>
+      <style>{ring}</style>
+      <div class="lds-ring">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </>
   );
 };
 
