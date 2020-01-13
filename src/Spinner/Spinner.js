@@ -4,7 +4,7 @@ const Spinner = props => {
   return (
     <>
       <style>{spinner}</style>
-      <div class="lds-spinner">
+      <div className="lds-spinner">
         <div></div>
         <div></div>
         <div></div>
